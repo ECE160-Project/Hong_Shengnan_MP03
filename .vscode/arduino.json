@@ -1,0 +1,5 @@
+{
+    "sketch": "Hong_Shengnan_MP03.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM7"
+}
